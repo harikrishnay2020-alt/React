@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { StrictMode } from 'react'
+import
 function Master()
 {
     const [sample , setName]=useState("Travel");
