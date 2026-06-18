@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import JSX from './events.jsx'
+import './index.css'
+import JSX from './student.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
